@@ -11,75 +11,63 @@ function Home() {
         alt=""
       />
 
-      <div className="home_items">
-        <div className="home_row">
-          <Product
-            id="12345678"
-            title="One Plus brand new Phone"
-            price={45000}
-            rating={5}
-            image="https://5.imimg.com/data5/WA/IN/MY-11183377/the-alchemist-500x500.png"
-          ></Product>
-        </div>
+      <div className="home_row">
+        <Product
+          id="12345678"
+          title="One Plus brand new Phone"
+          price={45000}
+          rating={5}
+          image="https://5.imimg.com/data5/WA/IN/MY-11183377/the-alchemist-500x500.png"
+        ></Product>
 
-        <div className="home_row">
-          <Product
-            id="12345678"
-            title="One Plus brand new Phone"
-            price={45000}
-            rating={5}
-            image="https://5.imimg.com/data5/WA/IN/MY-11183377/the-alchemist-500x500.png"
-          ></Product>
-        </div>
-
-        <div className="home_row">
-          <Product
-            id="12345678"
-            title="One Plus brand new Phone"
-            price={45000}
-            rating={5}
-            image="https://5.imimg.com/data5/WA/IN/MY-11183377/the-alchemist-500x500.png"
-          ></Product>
-        </div>
-        <div className="home_row">
-          <Product
-            id="12345678"
-            title="One Plus brand new Phone"
-            price={45000}
-            rating={5}
-            image="https://5.imimg.com/data5/WA/IN/MY-11183377/the-alchemist-500x500.png"
-          ></Product>
-        </div>
-        <div className="home_row">
-          <Product
-            id="12345678"
-            title="One Plus brand new Phone"
-            price={45000}
-            rating={5}
-            image="https://5.imimg.com/data5/WA/IN/MY-11183377/the-alchemist-500x500.png"
-          ></Product>
-        </div>
-        <div className="home_row">
-          <Product
-            id="12345678"
-            title="One Plus brand new Phone"
-            price={45000}
-            rating={5}
-            image="https://5.imimg.com/data5/WA/IN/MY-11183377/the-alchemist-500x500.png"
-          ></Product>
-        </div>
-        <div className="home_row">
-          <Product
-            id="12345678"
-            title="One Plus brand new Phone"
-            price={45000}
-            rating={5}
-            image="https://5.imimg.com/data5/WA/IN/MY-11183377/the-alchemist-500x500.png"
-          ></Product>
-        </div>
-        
-
+        <Product
+          id="12345678"
+          title="One Plus brand new Phone"
+          price={45000}
+          rating={5}
+          image="https://5.imimg.com/data5/WA/IN/MY-11183377/the-alchemist-500x500.png"
+        ></Product>
       </div>
+
+      <div className="home_row">
+        <Product
+          id="12345678"
+          title="One Plus brand new Phone"
+          price={45000}
+          rating={5}
+          image="https://5.imimg.com/data5/WA/IN/MY-11183377/the-alchemist-500x500.png"
+        ></Product>
+
+        <Product
+          id="12345678"
+          title="One Plus brand new Phone"
+          price={45000}
+          rating={5}
+          image="https://5.imimg.com/data5/WA/IN/MY-11183377/the-alchemist-500x500.png"
+        ></Product>
+
+        <Product
+          id="12345678"
+          title="One Plus brand new Phone"
+          price={45000}
+          rating={5}
+          image="https://5.imimg.com/data5/WA/IN/MY-11183377/the-alchemist-500x500.png"
+        ></Product>
+      </div>
+
+      <div className="home_row">
+        <Product
+          id="12345678"
+          title="One Plus brand new Phone"
+          price={45000}
+          rating={5}
+          image="https://5.imimg.com/data5/WA/IN/MY-11183377/the-alchemist-500x500.png"
+        ></Product>
+
+       
+      </div>
+
+
     </div>
   );
 }

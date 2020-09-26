@@ -1,6 +1,14 @@
 .product{
     display: flex;    
     flex-direction: column;
+    background-color: white;
+    z-index: 1;
+    align-items: center;
+    margin: 10px;
+    min-width: 100px;
+    padding: 20px;
+    justify-content: flex-end;
+    width: 100%;
 }
 
 .product_info{
